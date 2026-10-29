@@ -47,6 +47,10 @@ Operating System, Network, JVM, Concurrency, JWT, WebSocket, MCP, LLM Agent
 - TCP/IP, HTTP
 - 자료구조와 알고리즘
 
+## Algorithm
+
+- [Baekjoon / solved.ac](https://solved.ac/profile/brian1205) — **Gold I**, 477 problems solved
+
 ## Goal
 
 기능만 만드는 개발자가 아니라, 서비스가 실제로 어떻게 동작하는지 이해하고  
