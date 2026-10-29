@@ -9,7 +9,8 @@ CS 지식을 바탕으로 빠르고 안정적인 서버를 만드는 백엔드 �
 | --- | --- | --- |
 | [FitLog](https://github.com/Keykick999/exerciseRecordService) | 운동 계획·기록·분석과 AI 상담을 제공하는 개인 맞춤형 웨이트 트레이닝 플랫폼 | Java, Spring Boot, MySQL, Redis, Elasticsearch |
 | [Carmmunity](https://github.com/Keykick999/carmmunity) | 가상 차량 튜닝 결과를 확인하고 공유할 수 있는 자동차 튜닝 커뮤니티 | Java, Spring Boot, WebSocket, Redis |
-| **Jacket**<br>[frontend](https://github.com/Keykick999/jacket-frontend)  [backend](https://github.com/Keykick999/jacket-backend) | 웹 브라우저에서 음악 제작과 AI 앨범 커버 생성을 지원하는 온라인 DAW | Java, Spring Boot, React, Tone.js |
+| **Jacket**<br>[frontend](https://github.com/Keykick999/jacket-frontend) [backend](https://github.com/Keykick999/jacket-backend) | 웹 브라우저에서 음악 제작과 AI 앨범 커버 생성을 지원하는 온라인 DAW | Java, Spring Boot, React, Tone.js |
+| [Agent Harness](https://github.com/Keykick999/refactoring-agent) | LLM과 Tool을 활용해 Java 코드의 품질을 분석하고 개선 방향을 제안하는 AI Agent 실행 기반 | Java, Spring Boot, JUnit, MCP, Gemini, JavaParser |
 | [C Web Server](https://github.com/Keykick999/c-web-server) | C로 구현한 HTTP 웹 서버. 네트워크와 I/O 멀티플렉싱 학습용 | C, Socket, select, poll, epoll |
 
 ## Tech Stack
@@ -24,7 +25,7 @@ HTML, CSS, JavaScript, React
 MySQL, Redis, Elasticsearch, GCP, Nginx, GitHub Actions
 
 **Learning**  
-Operating System, Network, JVM, Concurrency, JWT, WebSocket
+Operating System, Network, JVM, Concurrency, JWT, WebSocket, MCP, LLM Agent
 
 ## Interested In
 
@@ -34,6 +35,7 @@ Operating System, Network, JVM, Concurrency, JWT, WebSocket
 - 인증/인가 구조
 - 실시간 통신 (WebSocket)
 - 대규모 트래픽 처리
+- AI Agent와 Tool 기반 시스템
 
 ## Studying
 
