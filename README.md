@@ -49,7 +49,7 @@ Operating System, Network, JVM, Concurrency, JWT, WebSocket, MCP, LLM Agent
 
 ## Algorithm
 
-- [Baekjoon / solved.ac](https://solved.ac/profile/brian1205) — **Gold I**, 477 problems solved
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=brian1205)](https://solved.ac/profile/brian1205)
 
 ## Goal
 
